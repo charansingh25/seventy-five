@@ -1,14 +1,27 @@
-## Attendance Plus
+## Seventy-Five
 
-### **Welcome 👋**
-This project is about how to take attendance using Wifi / Hotspot. This project is a WiFi and Wifi Hostpot based attendance system for colleges. This project helps teachers to mark students present, without having to waste time in roll calls.
+### **Welcome**
+This project is about how to take attendance using Wifi-direct and Bluetooth (basically using near-by features)
 
-The app has two modes: One for the teacher and the other for the students. The Teacher shares a unique code with students which is the Wfif Hotspot Key.
+### Starting interface
 
-The Students Then enter the given key/password and connects to the Wifi netwrok hosted by the teacher
+<img src="https://github.com/charansingh25/seventy-five/assets/104901834/cd8b9f1d-c12f-489d-892e-601a2a6f3fa9" width="200" />
+<img src="https://github.com/charansingh25/seventy-five/assets/104901834/4211a8d4-d5e9-4a6a-8447-cfb8c8847499" width="200" />
+<img src="https://github.com/charansingh25/seventy-five/assets/104901834/a3a67e0b-6dc8-4f78-9884-dcd27f09dedd" width="200" />
 
-Every time the teacher takes attendence, his/her phone creates a wifi hotspot using localonlyhotspot method which each student's device connects to. Once connected, the device broadcasts it's details, and on a succcessful confirmation, disconnects.
+### Student Interface
 
-This project has been updated with modern UI Design, and now it also stores the attendance of the students. Feel free to fork this repository and add new features!
+<img src="https://github.com/charansingh25/seventy-five/assets/104901834/04188836-fc3b-4514-a926-2c5d5ca14e90" width="200" />
+<img src="https://github.com/charansingh25/seventy-five/assets/104901834/64fe5b09-7ecf-4e6b-ae70-a5dd4e41b80a" width="200" />
+<img src="https://github.com/charansingh25/seventy-five/assets/104901834/dad733ec-dc05-4595-a091-c750c185003b" width="200" />
 
-Working in Android 10!
+### Teacher Interface
+
+<img src="https://github.com/charansingh25/seventy-five/assets/104901834/b2389328-1c80-4582-801c-c99dc20bd331" width="200" />
+<img src="https://github.com/charansingh25/seventy-five/assets/104901834/03f8adf7-1424-483d-94ab-50eae523dc52" width="200" />
+<img src="https://github.com/charansingh25/seventy-five/assets/104901834/1ae257e7-024b-4dba-bb5c-196804dec7f8" width="200" />
+<img src="https://github.com/charansingh25/seventy-five/assets/104901834/c970396a-566e-48f0-8e1a-b90292d43deb" width="200" />
+
+
+
+
